@@ -44,9 +44,10 @@ public class Attraction {
     private String type;
 
     @Column(nullable = false)
-    private String moreInfo;
+    private Contact contact;
 
     @Column(nullable = false)
     private String category;
-    
+
+
 }
