@@ -1,10 +1,10 @@
-package com.apps4society.turistandopb;
+package com.turistandoPB.main;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TuristandopbApplicationTests {
+class DadosTuristandoPbApplicationTests {
 
 	@Test
 	void contextLoads() {
